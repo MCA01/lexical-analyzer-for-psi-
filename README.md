@@ -1,5 +1,6 @@
 # lexical-analyzer-for-psi++
 A lexical analyzer for custom defined lang Psi++
+It was an assignment from the Programming Languages lecture.
 
 The program accepts a source file called code.psi and produce a text file called code.lex that contains all the tokens of the code.psi
 
